@@ -1,5 +1,5 @@
 # Savvyston-Characters
-## Gray House
+## Savvyston Gray House
 Majesty Savvie
 - Color: Red
 - TTS Voice: Nicole (AU/NZ)
